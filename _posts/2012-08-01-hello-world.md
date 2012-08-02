@@ -1,6 +1,5 @@
 ---
 layout: post
-category : i18n
 ---
 
 # Here we go
