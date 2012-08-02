@@ -1,3 +1,9 @@
+---
+layout: page
+title: Hello World!
+tagline: Supporting tagline
+---
+{% include JB/setup %}
 No posts?
 <ul class="posts">
   {% for post in site.posts %}
