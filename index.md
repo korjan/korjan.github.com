@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Korjan.nl
+tagline: Home of The Gentle Fellows, 6-Pack Think Tank & Revenge of the Nerds Inc.
 ---
 {% include JB/setup %}
 
