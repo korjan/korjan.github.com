@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Korjan.nl
+title: Ideas, Projects, Music &amp; Pictures
 tagline: Home of The Gentle Fellows, 6-Pack Think Tank & Revenge of the Nerds Inc.
 ---
 {% include JB/setup %}
