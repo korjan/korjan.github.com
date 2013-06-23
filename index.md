@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Ideas, Projects, Music &amp; Pictures
-tagline: Home of The Gentle Fellows, 6-Pack Think Tank & Revenge of the Nerds Inc.
+title: "Ideas, Projects, Music &amp; Pictures"
+tagline: "Home of The Gentle Fellows, 6-Pack Think Tank & Revenge of the Nerds Inc."
+published: true
 ---
+
 {% include JB/setup %}
 
-Hello html parsing...
+> Hello html parsing...
 
 <ul class="posts">
 	<li>Any posts here?</li>
