@@ -1,5 +1,6 @@
 ---
 layout: post
+published: true
 ---
 
 # Here we go
@@ -7,3 +8,7 @@ layout: post
 Made in prose.io
 
 ## Vet toch.
+
+zeker vet
+
+[nu](nu.nl)
