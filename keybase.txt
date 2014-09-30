@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/korjan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://korjan.nl
+  * I am korjan (https://keybase.io/korjan) on keybase.
+  * I have a public key with fingerprint 7EBB 86F5 A805 A5B2 D9D6  28BD 00DD 7396 4746 AF05
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7ebb86f5a805a5b2d9d628bd00dd73964746af05",
+            "host": "keybase.io",
+            "key_id": "00dd73964746af05",
+            "uid": "cc026de98f3e63bb2ddc815875c4c900",
+            "username": "korjan"
+        },
+        "service": {
+            "hostname": "korjan.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412101844,
+    "expire_in": 157680000,
+    "prev": "ae0830fb4c7f88470feb9d271f62c94730bc450d03683900a90a148c566cbe28",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yMHcAnicbVFdSBRBHD9N06TLfEkjtFylwFRm7/Zj9op8KCSMAkEjM7x2Z2fv1u52
+z7098zoUAvMhK8wSwkAzCzEojCQooi7vIsKeKjIrxL4OyajQFIzKZqUeguZlmN//
+9zE//nH7MltGUgLDAXn/7cmk0einkK2qaP5ZhJJ0OUy5ItQhvHQpqubBRsBQNZNy
+UTyWJMgprAgBK7KSQxZkzgElGQBZ5p0Cx/AMJyqApYoprx60FMRGEoO4VNUJRh5u
+VSbof/ihpQFCwMHJWICKE3NOiSTICNIs5FnEIAEAixjEhib6sWWuG/WiRjUXUwRr
+VBG2fmwF/zMv1XxEFjB0U0e6j8Be0wy4LJUZDli0w1hy/zFwS6omk8pE0IiNoKpr
+lIsmTGSqliPN0A4a0JBhiincFFAN7FYtBstzEJBjxeBGYiliAJ1AkRjEKxAyPFCw
+JMgOnlY4BxIY3gkkxLBABk4OOkkvUQAizUDEchySsANSVqUGTadcJMkUPcQyqHo0
+0QwZmGoeiR5IsSVl2JanJltLs2WsWP13lfHnaYt1hReyHhUs/zh2LbklGPkc7O7t
+alroG6o4W9C75n7WIDo+WRa9I8ydvzE20z9bfum1/+BA18v4qeH5zsveWPv4u5wq
+GNn2Zjw84j+3vmPKjVvcednt2sPFcNumnul9efbQqob0XZ5YLDD4YXRdfi5rz3zr
+zx2ut8fKKmtedT7ew9eNxzca/C3IBlD+j2/pLyrbHmTmtN5LmT7W0L8ykbpb/VWX
+OFM75C2qF+eubsjuSEyUVC8kUuPd8ZTSitaxiezZwr0n6L6vJ7loHGee3rJ9x1xt
++U4dgydHgfyz1YfW+rZ+3/z0SM3i9Zrq93dvetBwWvqXkpkrFx0CmOr5Dbq1FOo=
+=NZLF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/korjan
+
+==================================================================
